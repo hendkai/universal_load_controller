@@ -11,9 +11,16 @@ Universal Load Controller (“the App”) controls electronic loads (e.g., Atorc
 - **Network**: Only used if you explicitly connect to a TCP/HTTP endpoint you provide (e.g., serial-over-TCP). No background calls are made.
 - **Storage**: Used to save/export test data you generate (CSV/PDF) on your device.
 
+## Advertising (Free Version Only)
+The free version of this app displays advertisements through Google AdMob. AdMob may collect and process data according to Google's Privacy Policy:
+- Device information (device model, OS version)
+- Ad interaction data
+- Advertising ID for personalized ads
+
+You can opt out of personalized ads in your device settings. The Premium version contains no advertisements or ad-related data collection.
+
 ## Data We Do Not Collect
-- No personal data, identifiers, analytics, or usage telemetry are collected or sent to us.
-- No advertising SDKs or third-party tracking in the Premium version.
+- No personal data, identifiers, analytics, or usage telemetry are collected by us directly.
 - All test data and settings remain on your device unless you export/share them.
 
 ## How Data Is Used
